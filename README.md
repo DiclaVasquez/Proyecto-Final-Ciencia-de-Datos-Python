@@ -46,10 +46,10 @@
 
 
 ### Variables importantes para generar métricas de información:
-* Comomodity "tipo de Commodity"
+* Commodity "tipo de Commodity"
 * Valor de importación o exportación
-* Descripción uso del commodity
-* Años de información
+* Descripción (uso del commodity)
+* Años (información histórica)
 * Ciudad 
 
 
