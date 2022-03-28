@@ -31,9 +31,9 @@
 
 
 ### Objetivo: 
-###### Con los datos  que contiene el dataset, se podrán cruzar las variables que se desean análizar  y obetener información sobre pronósticos meteorológicos, tendencias de consumo, eventos geopolíticos.
+###### Con los datos  que contiene el dataset, se podrán cruzar las variables que se desean analizar  y obetener información sobre pronósticos meteorológicos, tendencias de consumo, eventos geopolíticos.
 
-###### La parte más interesante de este conjunto de datos, contiente todas las revisiones publicadas por el USDA, para una cobinación de tablas  como país  o productos. 
+###### La parte más interesante de este conjunto de datos, contiente todas las revisiones publicadas por el USDA, para una combinación de tablas  como país  o productos. 
 
 
 ---
