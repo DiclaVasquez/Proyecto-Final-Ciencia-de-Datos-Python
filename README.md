@@ -62,3 +62,28 @@
 * Valor de importaciones o exportaciones por País
 * Crecimiento o decrecimiento anual de cultivos de mayor producción. 
 * Estimaciones de producción de cultivos representativos.
+
+---
+## Modelado de datos
+#### ETL: El proceso de extracción , transformación y carga, se procedio utilizando las siguientes plataformas:
+
+* SQL
+* AWS
+* Jupyter notebook (Anaconda)
+* RDS
+* EC2 - Python 
+* Redshift - DW
+
+---
+
+## Desarrollo del proyecto ETL 
+####### Se procedio a desarrollar el proyecto , utilizando un modelo Datawarehouse, en SQL ( solomante la extración de las tablas) y fue montado en RDS y un archivos de precios internacionales  del café, en formato CSV, almacenados en S3.
+
+![](https://i.imgur.com/qZnYbKl.png)
+
+### Procesamiento y carga:
+####### El objetivo es  extraer los registros y transformarlos a un mismo tipo de dato.  realizo en Notebooks, para la construcción de los datos, corriendo el scripts en Python, archivo que se adjunta en este proyecto. 
+
+
+
+
