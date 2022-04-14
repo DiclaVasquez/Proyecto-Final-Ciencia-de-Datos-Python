@@ -84,6 +84,29 @@
 ### Procesamiento y carga:
 ####### El objetivo es  extraer los registros y transformarlos a un mismo tipo de dato.  realizo en Notebooks, para la construcción de los datos, corriendo el scripts en Python, archivo que se adjunta en este proyecto. 
 
+### Conclusión: 
+
+###### Como lo indicaba el alcance de este proyecto, el objetivo es poner en practica todas las enseñanzas y experiencias compartidas en clase. 
+
+###### En el proceso de la elaboración de este proyecto, nos encontramos con algunas dificultades que impidio que concluyéramos  con el proyecto. 
+
+* Al inicio Cuando se creo la instancia se trabajo, bajo el esquema de SQL, pero no funciono, luego se procedio a trabajarlo con MySQl, pero no funcióno. al final si nos corrio la instancia, trabajandolo con SQL. 
+
+* Al ingresar los paramentros si genera la conexion  con AWS y en Datagrip.
+
+##### En conclusión si nos reconocio la instancia, pero no logramos que nos generará los datos. 
+
+### Anexos:
+![](https://i.imgur.com/bqMdy49.png)
+
+
+![](https://i.imgur.com/Ky2fsvM.png)
+
+
+![](https://i.imgur.com/TTgO1UM.png)
+
+
+
 
 
 
